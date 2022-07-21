@@ -7,6 +7,6 @@ class Node
   end
 
   def to_s
-    "Val: #{value}\t"
+    "(#{value})"
   end
 end
